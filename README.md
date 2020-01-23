@@ -1,13 +1,13 @@
-## historyjka1
+# historyjka1
 
-# Contributors
+## Contributors
 
 Mateusz Jaworski
 
 Asia Koza
 
 
-# Requirements
+## Requirements
 
 ```
 python -m pip install -U matplotlib
